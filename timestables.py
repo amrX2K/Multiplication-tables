@@ -16,7 +16,6 @@ correct_answers = 0
 remaining_questions = number_of_questions
 
 while remaining_questions > 0:
-
     first_number = randint(1,12)
     second_number = randint(1,12)
     
